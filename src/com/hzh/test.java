@@ -8,6 +8,6 @@ package com.hzh;
  */
 public class test {
     public static void main(String[] args) {
-        System.out.println("css");
+        System.out.println("csss");
     }
 }
