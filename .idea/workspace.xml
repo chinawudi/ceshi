@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ceshi" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="726d3a4c-140a-4cde-9680-20b0794801bd" name="Default Changelist" comment="测试最新" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m5oA0VnPiztgeECMdgPdvCrjUn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="726d3a4c-140a-4cde-9680-20b0794801bd" name="Default Changelist" comment="" />
+      <created>1608792665544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608792665544</updated>
+      <workItem from="1608792668112" duration="6724000" />
+      <workItem from="1608859299071" duration="4090000" />
+    </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1608794763970</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608794763970</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1234">
+      <created>1608795144055</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608795144055</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1234">
+      <created>1608795224573</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608795224573</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1234">
+      <created>1608864207839</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608864207839</updated>
+    </task>
+    <task id="LOCAL-00005" summary="测试最新">
+      <created>1608865140270</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608865140270</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <MESSAGE value="1234" />
+    <MESSAGE value="测试最新" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试最新" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1608793790024">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1608793790024" />
+    <state x="421" y="141" key="FileChooserDialogImpl" timestamp="1608863298239">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="421" y="141" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1608863298239" />
+    <state x="142" y="44" key="SettingsEditor" timestamp="1608864284844">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="142" y="44" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1608864284844" />
+    <state x="233" y="133" key="Vcs.Push.Dialog.v2" timestamp="1608865155742">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="233" y="133" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1608865155742" />
+    <state x="350" y="187" key="git4idea.merge.GitPullDialog" timestamp="1608797810247">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="350" y="187" key="git4idea.merge.GitPullDialog/0.0.1280.800@0.0.1280.800" timestamp="1608797810247" />
+    <state x="6" y="10" key="new project wizard" timestamp="1608859317181">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="6" y="10" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1608859317181" />
+  </component>
+</project>
