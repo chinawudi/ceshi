@@ -8,6 +8,6 @@ package com.hzh;
  */
 public class test {
     public static void main(String[] args) {
-        System.out.println("qifei121233");
+        System.out.println("测试最新");
     }
 }
